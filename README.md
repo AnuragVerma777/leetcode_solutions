@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0704-binary-search) |
 ## Greedy
 |  |
 | ------- |
