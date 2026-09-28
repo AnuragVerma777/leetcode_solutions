@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0704-binary-search) |
+| [1710-maximum-units-on-a-truck](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [1710-maximum-units-on-a-truck](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Stack
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0007-reverse-integer) |
+## Sorting
+|  |
+| ------- |
+| [1710-maximum-units-on-a-truck](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1710-maximum-units-on-a-truck) |
 <!---LeetCode Topics End-->
