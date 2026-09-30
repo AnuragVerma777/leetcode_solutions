@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0704-binary-search) |
+| [1029-two-city-scheduling](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1029-two-city-scheduling) |
 | [1710-maximum-units-on-a-truck](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Binary Search
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0455-assign-cookies) |
+| [1029-two-city-scheduling](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1029-two-city-scheduling) |
 | [1710-maximum-units-on-a-truck](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Stack
 |  |
@@ -76,9 +78,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0455-assign-cookies) |
+| [1029-two-city-scheduling](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1029-two-city-scheduling) |
 | [1710-maximum-units-on-a-truck](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Quicksort
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0455-assign-cookies) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
