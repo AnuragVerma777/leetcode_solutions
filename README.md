@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0881-boats-to-save-people) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1029-two-city-scheduling](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1029-two-city-scheduling) |
 | [1710-maximum-units-on-a-truck](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Binary Search
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0881-boats-to-save-people) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1029-two-city-scheduling](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1029-two-city-scheduling) |
 | [1710-maximum-units-on-a-truck](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Stack
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0881-boats-to-save-people) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1029-two-city-scheduling](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1029-two-city-scheduling) |
 | [1710-maximum-units-on-a-truck](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Quicksort
@@ -101,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0881-boats-to-save-people) |
+## Counting
+|  |
+| ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 <!---LeetCode Topics End-->
