@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0057-insert-interval) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0704-binary-search) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
