@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0057-insert-interval) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0435-non-overlapping-intervals](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0881-boats-to-save-people) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0881-boats-to-save-people) |
