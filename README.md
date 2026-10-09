@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0881-boats-to-save-people) |
+| [0986-interval-list-intersections](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0986-interval-list-intersections) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [0986-interval-list-intersections](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0986-interval-list-intersections) |
 | [1029-two-city-scheduling](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1029-two-city-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1710-maximum-units-on-a-truck](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1710-maximum-units-on-a-truck) |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
