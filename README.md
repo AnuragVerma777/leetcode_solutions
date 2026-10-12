@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1029-two-city-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1710-maximum-units-on-a-truck](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1029-two-city-scheduling](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1029-two-city-scheduling) |
 | [1710-maximum-units-on-a-truck](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Stack
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1029-two-city-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1710-maximum-units-on-a-truck](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Quicksort
 |  |
 | ------- |
