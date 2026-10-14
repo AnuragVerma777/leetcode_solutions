@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0937-reorder-data-in-log-files](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0937-reorder-data-in-log-files) |
 ## Array
@@ -69,11 +70,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0560-subarray-sum-equals-k](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
