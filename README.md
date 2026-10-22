@@ -168,4 +168,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
