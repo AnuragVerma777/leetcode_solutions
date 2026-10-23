@@ -1,20 +1,15 @@
 class Solution(object):
     def lowestCommonAncestor(self, root, p, q):
-        parent = {root: None}
-        stack = [root]
-        while p not in parent or q not in parent:   # stop once both are mapped
-            node = stack.pop()
-            if node.left:
-                parent[node.left] = node
-                stack.append(node.left)
-            if node.right:
-                parent[node.right] = node
-                stack.append(node.right)
+        # Base case: empty tree, or we hit p or q
+        if root is None or root == p or root == q:
+            return root
 
-        ancestors = set()
-        while p:                       # all ancestors of p, including p
-            ancestors.add(p)
-            p = parent[p]
-        while q not in ancestors:      # climb from q until we meet one
-            q = parent[q]
-        return q
+        left = self.lowestCommonAncestor(root.left, p, q)
+        right = self.lowestCommonAncestor(root.right, p, q)
+
+        # p and q found on different sides, so this node is the LCA
+        if left and right:
+            return root
+
+        # Otherwise return whichever side found something (or None)
+        return left if left else right
