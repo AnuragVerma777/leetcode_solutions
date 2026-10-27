@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0986-interval-list-intersections](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0986-interval-list-intersections) |
 | [1029-two-city-scheduling](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1029-two-city-scheduling) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1288-remove-covered-intervals](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1710-maximum-units-on-a-truck](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0207-course-schedule](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0207-course-schedule) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0207-course-schedule) |
+## Matrix
+|  |
+| ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
