@@ -7,9 +7,8 @@ class Solution(object):
          if start<=e:
             e=max(e,end)
 
-         else :
+         else:
             res.append([s,e])
-            s, e = start, end
-       res.append([s, e])   
-       
+            s,e=start,end
+       res.append([s,e])
        return res
