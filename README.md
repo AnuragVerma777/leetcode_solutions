@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0435-non-overlapping-intervals](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0076-minimum-window-substring) |
+| [0217-contains-duplicate](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/AnuragVerma777/leetcode_solutions/tree/master/0455-assign-cookies) |
