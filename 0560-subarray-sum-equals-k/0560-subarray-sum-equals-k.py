@@ -1,12 +1,16 @@
 class Solution(object):
     def subarraySum(self, nums, k):
-     count = 0
-     prefix = 0
-     seen = {0: 1}
-     for num in nums :
-        prefix += num
-        if prefix - k in seen:
-           count += seen[prefix-k]
-        seen[prefix] = seen.get(prefix,0)+1
+        count = 0
+        total = 0
+        seen = {0: 1}              # running sum 0 has appeared once (empty start)
 
-     return count               
+        for num in nums:
+            total += num           # running sum so far
+
+            need = total - k       # earlier sum that would leave a subarray of sum k
+            if need in seen:
+                count += seen[need]
+
+            seen[total] = seen.get(total, 0) + 1
+
+        return count
